@@ -1,0 +1,10 @@
+insert into book (id,name) values (1,'Complete Reference 1');
+insert into book (id,name) values (2,'Complete Reference 2');
+insert into book (id,name) values (3,'Complete Reference 3');
+insert into book (id,name) values (4,'Complete Reference 4');
+insert into book (id,name) values (5,'Complete Reference 5');
+insert into authors (id,author_name,book_id) values (1,'Aashish Bimal 1',1);
+insert into authors (id,author_name,book_id) values (2,'Aashish Bimal 2',2);
+insert into authors (id,author_name,book_id) values (3,'Aashish Bimal 3',3);
+insert into authors (id,author_name,book_id) values (4,'Aashish Bimal 4',4);
+insert into authors (id,author_name,book_id) values (5,'Aashish Bimal 5',5);
